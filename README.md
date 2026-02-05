@@ -85,3 +85,4 @@ Non-Functional Requirements
 •	Site can easily work on different devices without any effect on its functionality
 
 •	Provide user confidence that application is working and his task is fulfill by system.
+For more info check Diagrams and Inerfaces file
