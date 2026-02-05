@@ -4,17 +4,24 @@ The E-Recruitment System provides a means to view, submit, and process applicati
 An e-recruitment website can provide a centralized platform for candidates to create their profiles/resumes and search for jobs on the other side for recruiter to post job details. The system should facilitate communication between recruiters and candidates, such as sending automated emails for application confirmation, interview scheduling, and status updates.
 This simplifies the recruitment process for both candidate and recruiters, saving them time and resources.
 This website has three main modules:
+<<<<<<< HEAD
 Candidate module  
 Recruiter module
 Admin module
 
 
 Functional and non Functional Requirements:
+=======
+Candidate module, 
+Recruiter module,
+Admin module.
+>>>>>>> 7abf8f0642ce16d12f9eb55ffcdd136d5c2aa063
 
 Functional Requirements
 
 Candidate module:
 
+<<<<<<< HEAD
 •	Candidates should be able to securely register and log in to the system.
 
 •	Candidates should be able to Search/ view job vacancies, should also search job based on keywords or criteria.
@@ -86,3 +93,52 @@ Non-Functional Requirements
 
 •	Provide user confidence that application is working and his task is fulfill by system.
 For more info check Diagrams and Inerfaces file
+=======
+• Candidates should be able to securely register and log in to the system.
+
+• Candidates should be able to Search/ view job vacancies, should also search job based on keywords or criteria.
+
+• Candidate should also be able to search for jobs based on various criteria such as location, industry, job title, and keywords. • Candidates should be able to submit their applications online, including uploading resumes and entering relevant information.
+
+• He/she should be able to view job alerts and notifications.
+
+• Candidates should receive application confirmation, interview scheduling, and status updates messages.
+
+• Candidates should be able to share the job vacancies to different social media platform(Facebook, Instagram etc.)
+
+• He/she should be able to post feedback relevant to websites or recruiters.
+
+• Logout form the system
+
+Recruiter module: • Register and log in to the system.
+
+• Recruiters should be able to post job vacancies, including job descriptions, requirements, and other relevant details.
+
+• They should be able to edit, deactivate, or remove job postings as needed.
+
+• Recruiters should be able to track applicants throughout the hiring process, including reviewing resumes, scheduling interviews, and recording feedback.
+
+• The system should allow recruiters to search and filter resumes based on keywords or criteria.
+
+• He/she should be able to download, store, and manage resumes or CVs submitted by candidates for later use.
+
+• He/she should be able to shortlist and Contact candidates via email or the website's messaging system and can send an interview letter/notification.
+
+• He/she should be able to generate reports of candidates based on their experience, qualification etc.
+
+• He/she should be able to post feedback relevant to websites or candidates.
+
+• Logout form the system
+
+Admin module: • Register and log in to the system.
+
+• Manage the entire website including the candidate and employer modules.
+
+• He/she should be able to manage user accounts for candidates and recruiters.
+
+• He/she should be able to edit, deactivate or delete job postings.
+
+• Calendar integration to check availability and schedule interviews with hiring managers and interviewers. • He she should be able to create reports of register user.
+
+• Sharing options for job listings on social media should be provided. • He/she should be able to view and manage feedback. • Logout form the system
+>>>>>>> 7abf8f0642ce16d12f9eb55ffcdd136d5c2aa063
