@@ -4,6 +4,6 @@ The E-Recruitment System provides a means to view, submit, and process applicati
 An e-recruitment website can provide a centralized platform for candidates to create their profiles/resumes and search for jobs on the other side for recruiter to post job details. The system should facilitate communication between recruiters and candidates, such as sending automated emails for application confirmation, interview scheduling, and status updates.
 This simplifies the recruitment process for both candidate and recruiters, saving them time and resources.
 This website has three main modules:
-Candidate module  
-Recruiter module
-Admin module
+Candidate module, 
+Recruiter module,
+Admin module.
